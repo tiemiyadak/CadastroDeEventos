@@ -30,7 +30,7 @@
                            FontSize="Subtitle"
                            TextColor="GreenYellow"
                                FontFamily="PTSerif-Italic"/>
-                        <Entry Text="{Binding Nome}" Placeholder="Por favor, digite o nome do evento"/>
+                        <Entry Text="{Binding Nome}" Placeholder="Por favor, digite aqui o nome do evento"/>
                         
                     </VerticalStackLayout>
                 </Frame>
